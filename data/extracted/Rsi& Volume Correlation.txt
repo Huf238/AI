@@ -1,0 +1,225 @@
+[Page 1]
+IOSR Journal of Business and Management (IOSR-JBM)
+e-ISSN: 2278-487X, p-ISSN: 2319-7668. Volume 23, Issue 7. Ser. I (July 2021), PP 48-51
+www.iosrjournals.org
+A Comparative Study on Effectiveness of Volume Based RSI vs.
+Traditional RSI
+Dr. Shalini H S1,
+Associate Professor, MBA Department, Acharya Bangalore B-School, Bangalore, India
+Dr. Raveendra P V2
+Professor, MBA Department, MS Ramaiah Institute of Technology, Bangalore India
+Abstract: Relative Strength Index (RSI) is a simple, very frequently used technical tool to identify overbought
+and oversold stocks. The objective of this paper is to conduct empirical analysis of traditional RSI Vs. volume
+based RSI on a set of most frequently traded stocks traded in National Stock Exchange. The current study tries
+to explain the effect of volume on stock price. In day trading it is believed that on any day if there is increased
+volume trading on ask side of a stock, it means there is a greater demand for that stock as the demand side is
+higher than the supply side. Changes in stock volume signify that there is some information related to the stock,
+either positive information or negative information which created a euphoria in the minds of traders. The
+current day trading strategy can be considered as the hybrid strategy which takes into consideration both the
+volume and RSI.
+Key Words: Financial forecasting, NIFTY, RSI, Technical analysis tool, Volume based RSI.
+---------------------------------------------------------------------------------------------------------------------------------------
+Date of Submission: 19-06-2021 Date of Acceptance: 04-07-2021
+---------------------------------------------------------------------------------------------------------------------------------------
+I. Introduction:
+The Relative Strength Index (RSI) acts as an effective technical indicator which measures the
+momentum of recent price changes. RSI indicates overbought or oversold position for a stock or an asset. It is
+also known as the oscillator and its value ranges from 0 to 100. RSI was invented by J. Weller Wilder Jr. in his
+book entitled “New concepts in Technical Trading Systems”. The current study introduces volume based RSI
+which takes into consideration the trading volume.
+Problem Statement: Technical analysis involves making short term buy or sell decisions by considering the
+historical prices of the stock and also forecasting the future price movements based on historical prices
+collected. The assumption behind technical analysis is “History repeats” i.e., the future stock prices are guided
+by the past price movements. Therefore it is important to note that previous stock prices are required to forecast
+their future evolution.
+Technical analysis has been the popular tool which was widely used in the stock market and till today it has not
+lost its significance. But then also technical analysis has its own drawbacks.
+Objectives of the study:
+ To study the functioning of classic RSI
+ To reconfigure the index by taking account of the trading volume in its calculation formula
+ To compare the results obtained from classic RSI with adjusted RSI
+Statement of Hypothesis:
+In a view to achieve the aim and objectives stated for the study, the following Hypothesis can be formulated:
+H -There is no significant difference in the gains from classic RSI and volume adjusted RSI
+0
+II. Literature Review:
+There are a plethora of research conducted on Technical oscillators such as RSI, MACD and Bollinger
+bands. Some of the significant ones are mentioned below:
+(Terence Tai-Leung Chong, 2014) Examined two most frequently used technical indicators namely
+Moving Average Convergence and Divergence (MACD) and Relative Strength Index (RSI) as a measure of
+profitability. From the study it was concluded that although both the indicators give a higher profits, MACD
+DOI: 10.9790/487X-2307014851 www.iosrjournals.org 48 | Page
+
+[Page 2]
+A Comparative Study on Effectiveness of Volume Based RSI vs. Traditional RSI
+was found to more efficient and strong signal which is also in compliance with efficient market hypothesis
+(EMH).
+(Shah Nisarg Pinakin, June, 2015) In their study have made a comparative analysis of Bollinger Bands
+with Relative Strength Index. The authors selected the closing prices of a set of stocks from Auto, IT and oil
+industry for one year. Out of analysis it was concluded by the authors that Bollinger bands gave a higher returns
+compared to RSI.
+(Dr. Bhargavi. R, 2017) In this study the authors make a comparative analysis of P/E ratio with EPS.
+For the study 20 scripts were chosen out of which 10 scripts were chosen with highest P/E ratio and another 10
+scripts with highest EPS were chosen. After analysis using RSI it was found that P/E ratio was a better indicator
+of profitability than EPS.
+(Choudhuri, July 2019) In another significant study conducted by Sajjan Choudhuri a comparative
+analysis of buy and hold strategy was done against the RSI strategy. The author compared the profits derived
+from buy and hold strategy with RSI signal on 30 stocks which are the components of SENSEX. From this
+study it was found that the signals given by RSI are very strong compared to buy and hold strategy.
+(Alhilfi, January 2019) This study was with related to investment pattern of Iraqi Stock Exchange. The
+author tried to study the investors preference towards stocks and what are the tools used by investors in order to
+predict the sentiments of the market. The author found that speculators who invested in Bank of Baghdad were
+better able to predict the prices of stock using RSI and also they were able to forecast the price.
+III. Research Methodology:
+Calculation of Classic RSI:
+For the present study a comparative study is done using classic form of RSI and adjusted form of RSI. RSI is
+used to represent the relative strength of a security’s return in comparison with market return. For determining
+RSI, we have to determine the highest closing price (change in upward movement represented by U) or lowest
+closing price (the downward change represented by (D) as follows:
+U Close = TCP – YCP...................................................(1)
+D Close = YCP – TCP.............................................(2)
+Where TCP = Today’s Closing Price, YCP = Yesterday’s Closing Price
+By looking at the above formula it can be made out that on a particular day U and D values are mutually
+exclusive events. Therefore if U is positive for a particular day, the value of D is taken as 0 and vice versa.
+In addition to this an exponential moving average (EMA) is calculated for U and D in order to eliminate the
+influence of random factors which seems to be unusual for the averages. This EMA is computed using a
+“multiplier” called α for a specific number of days.
+The number of days to be considered is 14 days as mentioned by Mr. Wilder but for EMA the author has
+considered 27 days for number of days in his book. The α multiplier will act as weighted average, giving higher
+weightage to recent stock prices and less weightage to older prices. The α multiplier is determined using the
+formula:
+......................................................(3)
+If we consider the number of days as 27 for example, then α value will be equal to 1/14. Computation of EMA
+involves computation of Simple Arithmetic Average (SMA) for the data of first N days in the price under
+consideration. The SMA can be computed by using the formula:
+............................................(4)
+Where is the simple arithmetic average of a series of data corresponding to N number of days, is the
+stock price corresponding to Nth day of the data set. It is important to note that while calculating RSI either X =
+U or X = D.
+The formula for determining exponential moving average for N+1 date is given below:
+.................................(5)
+Once we compute exponential moving averages of the Upper closing prices Relative strength can be calculated
+using the following formula:
+.................................(6)
+Finally the relative strength index is computed by using the formula
+......................................(7)
+The value of RSI will range from 30 to 70. An RSI value of 30 or below 30 represents the stock is
+oversold which shows that the stock is undervalued. An RSI score of 70 and above shows that the stock is
+overbought and the stock is overvalued. RSI values are interpreted differently under different market
+conditions. For instance if the market is highly volatile then an RSI score between 20 and 80 can be used
+DOI: 10.9790/487X-2307014851 www.iosrjournals.org 49 | Page
+
+[Page 3]
+A Comparative Study on Effectiveness of Volume Based RSI vs. Traditional RSI
+instead of 30 and 70. At the same time if the market is bullish the traders can rely upon buying signals and
+when the market is bearish it is preferred that traders should rely upon sell signals.
+The divergence between the graphs can also lead to buy or sell signals which shows the evolution of
+RSI. When RSI graph reaches maximum which is higher than the last high price and also when RSI chart
+reaches below maximum which is below the previous maximum price the indicator will show a buy signal and
+vice versa. The buy or sell signal will be more significant if the difference between RSI chart and the data graph
+appears after some point of time during which the index shows oversold and overbought position.
+The average level for RSI is assumed to be at 50 units. If the value of RSI exceeds 50 in upward
+direction from base 50 then the market is said to be bullish. And when the RSI value breaks out 50 from top to
+base then it is an indication of bearish trend.
+The volume adjusted form of RSI:
+The classic form of RSI considers only the stock price without taking into account the volume of stock
+traded. Volume plays a significant role while making buy and sell decisions. Hence the adjusted form of RSI
+takes into consideration the price of the underlying asset along with volume traded. Both the indicators put
+together create strong signals which are more powerful in making buy or sell decisions. Therefore in the present
+study two criteria have been considered to calculate adjusted RSI namely the price of the underlying asset and
+the volume traded. The formula to compute volume adjusted form of RSI is given below:
+........................................(8)
+Where RSP/V is the volume adjusted Relative Strength, EMA of UP/V is the exponential moving average of the
+price to volume increase which happens over a period of N days, EMA DP/V is the exponential moving average
+of price to volume decrease which took place over a period of N years. The volume adjusted RSI which is
+represented as can be calculated by using the following:
+...........................................(9)
+If we use the above formula the final output will be in terms of 100 which makes the buy or sell decision
+difficult as invented by Mr. Wilder. Therefore the above formula was adjusted to match the standard set of
+values proposed by Wilder.
+.........................................(10)
+By applying the above formula the interpretation rule given by Mr. Wilder will not change but the
+signal levels will change for both buy and sell. For the RSIA value exceeding the level of 37.5 from base to
+upside represents increase in the price of underlying asset price while the RSIA value exceeding 62.5 from
+upside down indicates a bearish trend that means the underlying share price will decrease. Apart from the above
+changes all other interpretations made in case of classic form of RSI will remain the same.
+Sources of data: For the present study the secondary data of the adjusted closing price of Nifty 50
+index is collected from Yahoo Finance. The difference between closing price and adjusted closing price is that
+the adjusted closing price is adjusted to the market sentiments observed due to corporate actions such as Follow
+on public offer, stock splits and dividend issue. The time duration considered for the study includes 1st March
+2016 to 1st March 2021 which includes a period of 5 years. With regard to the period under consideration it is
+important note that the study takes into consideration the impact of Covid 19 on the stock prices which started in
+India from 1st March 2020. Year 2020 has been a remarkable year in the history of India and also the World due
+to outbreak of Covid-19 virus. The current study examines the profitability of volume adjusted RSI with the
+classic form of RSI.
+IV. Results and Discussion:
+For the present study the empirical data was used to verify the profitability of classic form of RSI with
+the volume adjusted RSI. 30 & 70 are used as the standard points for classic form of RSI and 37.5 & 62.5 are
+used as the benchmarks for volume adjusted RSI. N is 14 days for computation of EMA value. The results are
+classified into two segments, the first segment consists of classic form of RSI and the second segment consists
+of volume adjusted form of RSI.
+Results pertaining to Classic form RSI:
+When the RSI closes the day on a level which is found to be above the signal or support level, then it
+gives a sell signal. It was assumed that the selling of one unit of NIFTY 50 will happen in the first day of
+trading. Simultaneously the open position will be closed as and when RSI reaches either the maximum
+resistance value again or a level which was found to be quite below 50 points, whichever the scenario that
+occurs first.
+DOI: 10.9790/487X-2307014851 www.iosrjournals.org 50 | Page
+
+[Page 4]
+A Comparative Study on Effectiveness of Volume Based RSI vs. Traditional RSI
+Similarly when RSI reaches the closing price at a minimum signal value which is quite lower the support level it
+gives a buy signal irrespective of the type of calculation used. Buying one unit of NIFTY 50 will take place on
+the very first day of the trading day, when RSI reaches a level which is quite above the minimum value. Again
+while closing the open position on the same day the RSI either reaches minimum support level or a signal level
+which is above 50 points.
+Table 1: Computation of Classic form of RSI-Results
+Classic form of Total signals Successful Failure Signals Gain from Gain due to failure Total Gain
+RSI Signals successful signals signals
+Buy 94 48 46 1058.68 -1567.67 -508.99
+Sell 113 55 58 745.64 -765.67 -20.03
+Grand Total 207 103 104 2044.74 -2334.34 -529.02
+Source: From Calculations
+Table No. 1 represents the results obtained from applying classic RSI formula. It can be noticed from
+the above table that out of 207 signals, a relatively smaller proportion of signals that is ninety four signals have
+accounted for buy and majority of the proportion that is one hundred and thirteen signals accounted for sell
+signals which is not normally distributed. The total gain caused due to the signals is 529.02 points. 48 out of 94
+buy signals were successful causing a gain of 1058.68 points. From the 113 total sell signals, 55 were
+successful with a gain of 745.64 points. The total gain caused due to the failed signals is 1567.67 due to 48 buy
+signals and 765.67 due to 58 sell signals. Overall gain was 529.02 points from classic form of RSI.
+Table 2: Computation of Volume adjusted form of RSI-Results
+RSI Total signals Successful Failure Signals Gain from Gain due to Total Gain
+A
+signals successful failure signals
+signals
+Buy 118 60 58 899.56 1465.67 -557.11
+Sell 121 58 63 656.81 867.79 -210.98
+Total 239 118 121 1556.37 2333.46 -768.09
+Source: From Calculations
+From Table 2 we can make out that by applying volume adjusted RSI indicator out of total two
+hundred and thirty nine signals one eighteen were found to be Buy signals. Only sixty signals were found to be
+successful and remaining fifty eight were failures. The gain from successful signals was found to be 899.56
+points and the loss due to failed signals was found to be 1465.67 points. Overall there was a loss of 557.11
+points from Buy signals. In case of sell signals out of one hundred and twenty one sell signals, fifty eight were
+found to be successful and sixty three were found to be failures. Again like in case of classic form of RSI, the
+number of signals are not normally distributed in volume adjusted RSI case. The total gain due to successful
+signals is 656.81 points and loss is 867.79 points. The total gain due to sell signals is 768.09 points. The overall
+gain due to volume adjusted RSI is 768.09 points.
+V. Conclusion:
+From the above results and discussions it is found that the gains generated under volume adjusted form
+of RSI is comparatively greater than the gains from classic form of RSI. From the above results it can be stated
+that both the forms of RSI will predict the short term continuation of the price movements in the underlying
+stock but they fail to predict the trend which persists for a longer duration of time. Therefore it can be
+concluded that Volume adjusted RSI is comparatively more profitable than the classic form.
+References:
+[1]. Alhilfi, M. (January 2019). Role of using the Relative Strength Index in Making Speculation Decision in Stock Applied Research in
+the Iraq Stock Exchange. International Journal of Academic Research in Accounting, Finance and Management Sciences, 123–135.
+[2]. Choudhuri, S. (July 2019). A Research on Trading of Sensex Stocks by using RSI. International Journal of Innovative Technology
+and Exploring Engineering (IJITEE), 14-22.
+[3]. Dr. Bhargavi. R, D. S. (2017). Relative Strength Index for Developing Effective Trading Strategies in Constructing Optimal
+Portfolio. International Journal of Applied Engineering Research, 8926-8936.
+[4]. Shah Nisarg Pinakin, P. T. (June, 2015). A Comparative Study on Technical Analysis by Bollinger Band and RSI. International
+Journal in Management and Social Science, 234-251.
+[5]. Terence Tai-Leung Chong, W.-K. N.-S. (2014). Revisiting the Performance of MACD and RSI Oscillators. Journal of Risk and
+Financial Management, 1-12.
+DOI: 10.9790/487X-2307014851 www.iosrjournals.org 51 | Page

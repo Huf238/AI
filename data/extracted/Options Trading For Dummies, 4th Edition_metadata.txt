@@ -1,0 +1,6 @@
+source: C:\Users\camer\OneDrive\Desktop\AI Test\ai_model\documents\Options Trading For Dummies, 4th Edition.pdf
+pages: 419
+extractor: pdfplumber
+ocr_pages: 0
+char_count: 807182
+word_count: 141539

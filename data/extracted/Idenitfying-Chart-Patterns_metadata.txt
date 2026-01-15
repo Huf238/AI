@@ -1,0 +1,6 @@
+source: C:\Users\camer\OneDrive\Desktop\AI Test\ai_model\documents\Idenitfying-Chart-Patterns.pdf
+pages: 49
+extractor: pdfplumber
+ocr_pages: 0
+char_count: 26045
+word_count: 4083

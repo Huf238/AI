@@ -1,0 +1,6 @@
+source: C:\Users\camer\OneDrive\Desktop\AI Test\ai_model\documents\Rsi& Volume Correlation.pdf
+pages: 4
+extractor: pdfplumber
+ocr_pages: 0
+char_count: 18016
+word_count: 2938

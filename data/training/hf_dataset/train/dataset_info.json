@@ -2,15 +2,19 @@
   "citation": "",
   "description": "",
   "features": {
-    "instruction": {
+    "text": {
       "dtype": "string",
       "_type": "Value"
     },
-    "input": {
+    "question": {
       "dtype": "string",
       "_type": "Value"
     },
-    "output": {
+    "answer": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "context": {
       "dtype": "string",
       "_type": "Value"
     },

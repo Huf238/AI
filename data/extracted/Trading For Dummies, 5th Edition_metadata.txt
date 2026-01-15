@@ -1,0 +1,6 @@
+source: C:\Users\camer\OneDrive\Desktop\AI Test\ai_model\documents\Trading For Dummies, 5th Edition.pdf
+pages: 403
+extractor: pdfplumber
+ocr_pages: 0
+char_count: 855738
+word_count: 150842
