@@ -24,10 +24,10 @@ bitsandbytes>=0.41.0            # 8-bit/4-bit quantization for memory efficiency
 # -------------------
 PyPDF2>=3.0.0                   # PDF text extraction
 pdfplumber>=0.10.0              # Advanced PDF text extraction (handles complex layouts)
-python-docx>=0.8.11             # Microsoft Word document processing
+python-docx>=0.8.11             # Microsoft Word document processingsd
 chardet>=5.0.0                  # Character encoding detection
 pytesseract>=0.3.10             # OCR for scanned documents
-pdf2image>=1.16.0               # Convert PDF pages to images for OCR
+pdf2image>=1.16.0               # Convert PDF pages to images for OCRsd
 Pillow>=10.0.0                  # Image processing
 
 # Text Processing

@@ -1236,7 +1236,7 @@ Analyst Target: ${analyst_target:.2f} ({upside:+.1f}% upside)
                     if phrase in ai_response:
                         ai_response = ai_response.split(phrase)[0].strip()
                 
-                # Remove any remaining [Chart] or similar hallucinations
+                # Remove any remaining [Chart] or similar hallucinationssa
                 import re
                 ai_response = re.sub(r'\[Chart\]', '', ai_response)
                 ai_response = re.sub(r'\[Image\]', '', ai_response)
