@@ -1,0 +1,20 @@
+# Example Questions for Testing Your Fine-Tuned Model
+# ===================================================
+# After training, use these as a starting point to test your model.
+# Modify these questions based on your document content.
+#
+# Usage:
+# python scripts/inference.py --model_path models/llama2-document-finetuned_YYYYMMDD_HHMMSS \
+#     --questions_file example_questions.txt --output_file answers.json
+
+What is the main topic covered in these documents?
+Can you summarize the key points from the documents?
+What are the most important concepts mentioned?
+What recommendations or conclusions are made?
+Explain the main processes described in the documents.
+What are the key terms I should know?
+How does [topic] work according to the documents?
+What are the benefits and challenges mentioned?
+What dates or timelines are important?
+Who are the main people or organizations mentioned?
+

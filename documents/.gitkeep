@@ -1,0 +1,14 @@
+# Place your PDF, DOCX, TXT, and MD files in this directory.
+# The training pipeline will extract text from these documents.
+#
+# Supported formats:
+# - .pdf (PDF documents)
+# - .docx (Microsoft Word)
+# - .txt (Plain text)
+# - .md (Markdown)
+#
+# Tips:
+# - Use searchable PDFs (not scanned images)
+# - Ensure documents are properly formatted
+# - More documents = better training results
+

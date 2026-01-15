@@ -1,0 +1,60 @@
+# ============================================================================
+# Document Training Pipeline - Requirements
+# ============================================================================
+# This file contains all Python dependencies needed for the training pipeline.
+# Install with: pip install -r requirements.txt
+#
+# NOTE: This uses FREE open-source models - no login or API keys needed!
+# ============================================================================
+
+# Core ML/AI Libraries
+# --------------------
+torch>=2.0.0                    # PyTorch - Deep learning framework
+transformers>=4.35.0            # Hugging Face Transformers - For Llama 2 model
+accelerate>=0.24.0              # Distributed training and mixed precision
+datasets>=2.14.0                # Hugging Face Datasets - Dataset handling
+hf_xet>=1.0.0                   # Fast model downloads from Hugging Face
+
+# Parameter-Efficient Fine-Tuning
+# -------------------------------
+peft>=0.6.0                     # Parameter-Efficient Fine-Tuning (LoRA, QLoRA)
+bitsandbytes>=0.41.0            # 8-bit/4-bit quantization for memory efficiency
+
+# Document Processing
+# -------------------
+PyPDF2>=3.0.0                   # PDF text extraction
+pdfplumber>=0.10.0              # Advanced PDF text extraction (handles complex layouts)
+python-docx>=0.8.11             # Microsoft Word document processing
+chardet>=5.0.0                  # Character encoding detection
+pytesseract>=0.3.10             # OCR for scanned documents
+pdf2image>=1.16.0               # Convert PDF pages to images for OCR
+Pillow>=10.0.0                  # Image processing
+
+# Text Processing
+# ---------------
+nltk>=3.8.0                     # Natural language toolkit for text processing
+regex>=2023.0.0                 # Advanced regex operations
+
+# Training Utilities
+# ------------------
+tqdm>=4.65.0                    # Progress bars
+wandb>=0.15.0                   # Weights & Biases for experiment tracking (optional)
+tensorboard>=2.14.0             # TensorBoard for loss visualization (optional)
+
+# Evaluation and Testing
+# ----------------------
+evaluate>=0.4.0                 # Model evaluation metrics
+rouge-score>=0.1.2              # ROUGE score for text generation
+
+# Utilities
+# ---------
+python-dotenv>=1.0.0            # Environment variable management
+PyYAML>=6.0                     # YAML configuration files
+rich>=13.0.0                    # Beautiful terminal output
+
+# Trading & Stock Data
+# --------------------
+yfinance>=0.2.0                 # Free stock data API (Yahoo Finance)
+ta>=0.11.0                      # Technical analysis indicators
+pandas>=2.0.0                   # Data manipulation
+

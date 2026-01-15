@@ -1,0 +1,6 @@
+source: C:\Users\camer\OneDrive\Desktop\AI Test\ai_model\documents\Technical Analysis For Dummies.pdf
+pages: 387
+extractor: pdfplumber
+ocr_pages: 0
+char_count: 789905
+word_count: 141530
